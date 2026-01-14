@@ -23,28 +23,77 @@ tasks = {}
 
 # ===== Static Data =====
 ZONE_MAP = {
-    # 🇺🇿 Toshkent
+    # 🇺🇿 O‘zbekiston
     "toshkent": "Asia/Tashkent",
     "ташкент": "Asia/Tashkent",
     "uzbekistan": "Asia/Tashkent",
     "узбекистан": "Asia/Tashkent",
+    "samarqand": "Asia/Tashkent",
+    "самарканд": "Asia/Tashkent",
+    "andijon": "Asia/Tashkent",
+    "андижан": "Asia/Tashkent",
 
-    # 🇷🇺 Rossiya (Moskva vaqti)
+    # 🇷🇺 Rossiya
     "rossiya": "Europe/Moscow",
     "russia": "Europe/Moscow",
     "россия": "Europe/Moscow",
     "moskva": "Europe/Moscow",
     "москва": "Europe/Moscow",
+    "sankt-peterburg": "Europe/Moscow",
+    "питер": "Europe/Moscow",
 
-    # 🇺🇸 New York
+    # 🇺🇸 AQSH
     "new york": "America/New_York",
     "newyork": "America/New_York",
     "ny": "America/New_York",
     "нью-йорк": "America/New_York",
-    "niyork": "America/New_York"
+    "washington": "America/New_York",
+    "los angeles": "America/Los_Angeles",
+    "la": "America/Los_Angeles",
+
+    # 🇬🇧 Buyuk Britaniya
+    "london": "Europe/London",
+    "londan": "Europe/London",
+    "лондон": "Europe/London",
+    "uk": "Europe/London",
+
+    # 🇹🇷 Turkiya
+    "istanbul": "Europe/Istanbul",
+    "istanbol": "Europe/Istanbul",
+    "истамбул": "Europe/Istanbul",
+    "turkiya": "Europe/Istanbul",
+
+    # 🇩🇪 Germaniya
+    "berlin": "Europe/Berlin",
+    "берлин": "Europe/Berlin",
+    "germany": "Europe/Berlin",
+
+    # 🇫🇷 Fransiya
+    "parij": "Europe/Paris",
+    "paris": "Europe/Paris",
+    "париж": "Europe/Paris",
+
+    # 🇨🇳 Xitoy
+    "beijing": "Asia/Shanghai",
+    "pekin": "Asia/Shanghai",
+    "пекин": "Asia/Shanghai",
+    "china": "Asia/Shanghai",
+
+    # 🇯🇵 Yaponiya
+    "tokyo": "Asia/Tokyo",
+    "tokio": "Asia/Tokyo",
+    "токио": "Asia/Tokyo",
+
+    # 🇰🇷 Janubiy Koreya
+    "seoul": "Asia/Seoul",
+    "seul": "Asia/Seoul",
+    "сеул": "Asia/Seoul",
+
+    # 🇦🇪 BAA
+    "dubai": "Asia/Dubai",
+    "дубай": "Asia/Dubai",
+    "uae": "Asia/Dubai"
 }
-
-
 
 STRINGS = {
     "UZ": {
